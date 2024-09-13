@@ -1,0 +1,8 @@
+# ignoring data files
+data/*
+
+# preserve the .gitkeep
+!data/.gitkeep
+
+# cache
+**/*.pyc
